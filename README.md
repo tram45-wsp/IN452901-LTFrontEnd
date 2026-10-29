@@ -1,4 +1,4 @@
-# EduHub Web — Ch03 (solution)
+# EduHub Web — Ch03
 
 Bản mẫu chương 3 môn **IN4529 — Lập trình Front End**: giao diện Ch02 được nối với **mock API EduHub** bằng JavaScript thuần (ES modules, DOM, `fetch`), đóng gói bằng **Vite 8**, kiểm lỗi bằng **ESLint 10**, và một tệp **TypeScript** nhập môn.
 
